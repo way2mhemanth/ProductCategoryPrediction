@@ -1,0 +1,10 @@
+json
+tensorflow
+pandas
+numpy
+pydot
+matplotlib
+seaborn
+nltk
+re
+warnings
